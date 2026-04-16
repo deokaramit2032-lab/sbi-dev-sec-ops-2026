@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * Cross-cutting audit and performance logging via AOP.
- *
+ *This is demo
  * DevSecOps fixes (A02 — Cryptographic Failures / PII Protection):
  *
  *   BEFORE (vulnerable):
